@@ -1,0 +1,14 @@
+2020-05-03 18:17:38,549 kwcase_register_01.py---> test_001_kw 20: INFO------> Test with wrong username 
+2020-05-03 18:17:44,309 kwcase_register_01.py---> test_002_kw 20: INFO------> Test with wrong email 
+2020-05-03 19:04:08,303 kwcase_register_01.py---> test_001_kw 20: INFO------> Test with wrong username 
+2020-05-03 19:04:13,869 kwcase_register_01.py---> test_002_kw 20: INFO------> Test with wrong email 
+2020-05-03 19:43:21,686 kwcase_register_01.py---> test_001_kw 20: INFO------> Test with wrong username 
+2020-05-03 19:43:27,036 kwcase_register_01.py---> test_002_kw 20: INFO------> Test with wrong email 
+2020-05-03 20:55:55,530 kwcase_register_01.py---> test_001_kw 20: INFO------> Test with wrong username 
+2020-05-03 20:56:01,274 kwcase_register_01.py---> test_002_kw 20: INFO------> Test with wrong email 
+2020-05-03 21:34:42,435 kwcase_register_01.py---> test_001_kw 20: INFO------> Test with wrong username 
+2020-05-03 21:34:48,095 kwcase_register_01.py---> test_002_kw 20: INFO------> Test with wrong email 
+2020-05-03 21:35:24,588 kwcase_register_01.py---> test_001_kw 20: INFO------> Test with wrong username 
+2020-05-03 21:35:30,276 kwcase_register_01.py---> test_002_kw 20: INFO------> Test with wrong email 
+2020-05-03 21:36:24,436 kwcase_register_01.py---> test_001_kw 20: INFO------> Test with wrong username 
+2020-05-03 21:36:30,157 kwcase_register_01.py---> test_002_kw 20: INFO------> Test with wrong email 
