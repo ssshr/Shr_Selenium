@@ -1,5 +1,3 @@
-import sys
-sys.path.append(r'D:\bsssss\500dTest')
 import ddt
 import unittest
 import HTMLTestRunner
@@ -38,10 +36,10 @@ class TestCaseKw(unittest.TestCase):
         # self.driver.close()
 
     def test_001_kw(self):
-        self.kw.run_main(r'D:\bsssss\500dTest\config\test_001_kw.xls')
+        self.kw.run_main(os.getcwd()+'/config/test_001_kw.xls')
         self.logger.info('Test with wrong username')
     def test_002_kw(self):
-        self.kw.run_main(r'D:\bsssss\500dTest\config\test_002_kw.xls')
+        self.kw.run_main(os.getcwd()+'/config/test_002_kw.xls')
         self.logger.info('Test with wrong email')
 
 if __name__ == '__main__':
