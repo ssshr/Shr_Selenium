@@ -1,5 +1,3 @@
-import sys
-sys.path.append(r'D:\bsssss\500dTest')
 from tools.excel_tool import ExcelTool
 from keyword_mode.actionMethod import ActionMethod
 
